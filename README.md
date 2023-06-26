@@ -1,2 +1,2 @@
 # Overdue-invoices-sender-bot
-A bot that send messages to clients requesting payment for overdue invoices
+A bot that sends messages to customers asking about paying overdue invoices, using Python, SQL and Excel
